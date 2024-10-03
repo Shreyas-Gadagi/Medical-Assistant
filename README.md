@@ -55,6 +55,3 @@ Now we can run the app with the commands:
 3.how many male and female patients are there?
 4.which patient has more number of symptoms give me case details and list all the symptoms?
 5.How many patients are there in the hospital?
-
-# Medical-Assistant
-# Medical-Assistant
