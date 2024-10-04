@@ -1,4 +1,4 @@
-# Medical Assistance
+# AI Driven Medical Assistant
 This is a Application which shows how OpenAI can be used with Neo4j, Vector database and Snowflake to build and consume Knowledge Graphs using unstructured Medical Transcript Corpus. Using OpenAI GPT-4 model.
 
 This notebook parses data from a public corpus of Medical Case Sheet using OpenAI's `gpt-4-32k` model. The model is prompted to recognise and extract entities and relationships. 
