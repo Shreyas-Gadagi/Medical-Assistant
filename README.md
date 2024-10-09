@@ -50,8 +50,8 @@ Now we can run the app with the commands:
    
 
 ## Sample Questions to ask:
-1. Who are suffering from fever give me case details? \n
-2. Give me case details of cancer patients? \n
-3. How many male and female patients are there? \n
-4. Which patient has more number of symptoms give me case details and list all the symptoms? \n
-5. How many patients are there in the hospital? \n
+1. Who are suffering from fever give me case details? 
+2. Give me case details of cancer patients? 
+3. How many male and female patients are there? 
+4. Which patient has more number of symptoms give me case details and list all the symptoms? 
+5. How many patients are there in the hospital? 
